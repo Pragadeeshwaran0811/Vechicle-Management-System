@@ -1,0 +1,1 @@
+{'ct5250': {'vehicle_id': 'ct5250', 'vehicle_rent': '1000', 'vehicle_type': 'Bike', 'vehicle_model': 'classic', 'available': True}, 'ak5500': {'vehicle_id': 'ak5500', 'vehicle_rent': '2000', 'vehicle_type': 'car', 'vehicle_model': 'swift', 'available': True}}
